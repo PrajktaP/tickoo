@@ -5,6 +5,7 @@ App requirements:
 * ruby 2.4.0
 * rails 5.0.1
 * twitter-bootstrap for CSS to make the web pages look pretty.
+* reactjs
 
 Preparing the app for first use:
 
