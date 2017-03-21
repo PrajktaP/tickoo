@@ -15,4 +15,4 @@ Preparing the app for first use:
 * rake db:migrate
 * rake db:seed
 
-If you have any questions, then you can email me at ajey.potdar@gmail.com
+If you have any questions, then you can email me at prajkta.p@gmail.com
